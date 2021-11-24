@@ -1,6 +1,6 @@
 ![Project Drawington](drawington-logo.png)
 
-##Introduction
+## Introduction
 Project Drawington is a web-based note taking application. You can create a new noteboard and others can edit it in real-time.
 
 ## Setup
